@@ -1,4 +1,4 @@
 # adi-demo
 This is my first Git Repository.
 <br/>
-Author - Aditya Sharda
+Author - Aditya Sharda (Head)
